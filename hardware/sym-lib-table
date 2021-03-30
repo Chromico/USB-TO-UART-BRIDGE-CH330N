@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CH330N-USB-TO-UART-BOARD-rescue)(type Legacy)(uri ${KIPRJMOD}/CH330N-USB-TO-UART-BOARD-rescue.lib)(options "")(descr ""))
+)
