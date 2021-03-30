@@ -24,7 +24,7 @@ My website: https://tecknologg.website
 You can get the official documentation here: https://github.com/Chromico/USB-TO-UART-BRIDGE-CH330N/blob/main/documentation/CH330N%20USB%20TO%20UART%20BRIDGE%20Documentation.pdf
 
 # Certification
-![picture]()
+
 PENDING
 
 
