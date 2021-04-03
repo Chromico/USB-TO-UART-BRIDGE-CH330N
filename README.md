@@ -25,8 +25,7 @@ You can get the official documentation here: https://github.com/Chromico/USB-TO-
 
 # Certification
 
-PENDING
-
+![picture](https://github.com/Chromico/USB-TO-UART-BRIDGE-CH330N/blob/main/photos/MU000005.png)
 
 # Contact
 
